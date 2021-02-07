@@ -1,0 +1,53 @@
+
+
+#what-is-kefir{
+    /* height: 550px; */
+    display:block;
+}
+
+#welcome-text{
+    text-align: center;
+    font-size: 280%;
+    padding-top: 20px;
+}
+.left-about-container{
+    width: 43%;
+    /* height: 400px; */
+    float: left;
+    line-height: 20px;
+    padding-left: 100px;
+    padding-top: 80px;
+    margin-bottom: 50px;
+    /* clear: both; */
+    color: #2F4B58;
+    letter-spacing: 1px;
+}
+
+.left-about-container > p{
+    margin-bottom: 30px;
+}
+#kefir-image-area{
+    padding-top: 60px;
+    width: 45%;
+    float: right;
+    margin: 0 10px;
+
+}
+#image-container{
+    width: 370px;
+    height: 370px;
+    padding: 15px;
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+    
+}
+
+#whats-kefir-image{
+    background: url(../images/milk-products-dairy.jpg) no-repeat center center;
+    background-size: 600px;
+    height: 100%;
+    border-radius: 50%;
+}
