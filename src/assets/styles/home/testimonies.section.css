@@ -1,0 +1,72 @@
+
+#testimony {
+    height: 350px;
+    width: 100%;
+}
+
+#testimony-text{
+    text-align: center;
+    margin: 25px, 0;
+    font-size: 280%;
+    padding-top: 70px;
+    
+}
+
+#testimony1-image-area {
+    padding-top: 40px;
+    width: 45%;
+    float: right;
+    margin: 0 10px;
+}
+
+#testimony1-image {
+    background: url(../../images/matheus-ferrero-W7b3eDUb_2I-unsplash.jpg) no-repeat center center;
+    background-size: 600px;
+    height: 100%;
+    border-radius: 50%;
+}
+
+.left-testimony-container{
+    width: 43%;
+    height: 250px;
+    float: left;
+    line-height: 20px;
+    padding-left: 100px;
+    padding-top: 75px;
+    margin-bottom: 80px;
+    clear: both;
+    color: #2F4B58;
+    letter-spacing: 1px;
+}
+
+#testimony p{
+    text-align: justify;
+    margin: 20px;
+    
+}
+
+#testimony-image-container{
+    width: 315px;
+    height: 315px;
+    padding: 15px;
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+    
+}
+
+#testimony2-image-area{
+    width: 50px;
+    float: left;
+    padding: 20px;
+    
+}
+
+#testimony2-image {
+    background: url(../../images/damir-bosnjak-VQ2L7t5qt_8-unsplash.jpg) no-repeat center center;
+    background-size: 600px;
+    height: 100%;
+    border-radius: 50%;
+}
