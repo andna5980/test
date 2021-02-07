@@ -1,3 +1,459 @@
-header h1{
-    font-size: 60px;
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Caveat+Brush&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    border:0;
 }
+
+body {
+    font-family: Arial, Helvetica, sans-serif; 
+    color: #2F4B58;
+}
+
+
+h2 {
+    font-family:  Caveat Brush, Helvetica, sans-serif; 
+    color: #2F4B58;
+}
+
+#logo{
+    float: left;
+    font-size: 280%; 
+    padding-left: 10px;
+    letter-spacing: 3px;
+}
+
+#nav{
+    display: block;
+}
+
+#menu{
+    font-size: 120%;
+    list-style-type: none;
+    letter-spacing: 2px;
+    
+
+}
+
+#menu li{
+    float: right;
+    margin: 5px;
+    margin-right: 10px;
+}
+
+#logo, #menu {
+    line-height: 60px;
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit
+}
+
+#menu a:hover {
+    border-bottom: 1px solid #2F4B58;
+}
+
+.active{
+    border-bottom: 1px solid #2F4B58;
+}
+
+#hero-image{
+    height: 460px;
+    width: 100%;
+    background: url(../images/milk-kefir-grains-spoon_1024x1024.jpg) no-repeat center center ;
+    background-size: 900px 1000px;
+    margin-top: -80px;
+    animation-name: hero-zoom;
+    animation-duration: 4s;
+    animation-fill-mode: forwards; 
+}
+
+#hero-outer{
+    height: 400px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+
+
+/* Animation ot the Hero picture*/
+@keyframes hero-zoom{
+    from{
+        transform: scale(1);
+    }
+    to{
+        transform: scale(1.2);
+    }
+}
+
+#cover-text h2{
+    color: whitesmoke;
+    font-size: 140%;
+    font-family: Caveat Brush, Helvetica, sans-serif;
+    letter-spacing: 4px;
+    text-align: center;
+    
+
+
+    width: 200px;
+    height: 75px;
+
+    padding-top: 10px;
+    
+    background-color: rgba(0, 0, 0, .5);
+    border-radius: 30px;
+
+    top: 50px;
+    left: 190px;
+
+    position: absolute; 
+}
+
+/* Whats-kefir-area*/
+
+#what-is-kefir{
+    height: 550px;
+}
+
+#about-kefir{
+    padding-top: 10px;
+    padding-left: 30px;
+    width: 45%;
+    float: left;
+    
+}
+
+#kefir-image-area{
+    padding-top: 60px;
+    width: 45%;
+    float: right;
+    margin: 0 10px;
+}
+ 
+hr{
+    border-color: #2F4B58;
+    width: 100%;
+}
+
+
+.left-about-container{
+    width: 43%;
+    height: 400px;
+    float: left;
+    line-height: 20px;
+    padding-left: 100px;
+    padding-top: 80px;
+    margin-bottom: 50px;
+    clear: both;
+    color: #2F4B58;
+    letter-spacing: 1px;
+}
+
+.left-about-container > p{
+    margin-bottom: 30px;
+}
+
+.info-container p{
+    text-align: center;
+    
+}
+
+
+#welcome-text{
+    text-align: center;
+    font-size: 280%;
+    padding-top: 20px;
+}
+
+#image-container{
+    width: 370px;
+    height: 370px;
+    padding: 15px;
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+    
+}
+
+#whats-kefir-image{
+    background: url(../images/milk-products-dairy.jpg) no-repeat center center;
+    background-size: 600px;
+    height: 100%;
+    border-radius: 50%;
+}
+
+
+
+/* Benefits-area*/
+
+#benefits {
+    height: 400px;
+    width: 100%;
+    
+}
+
+#benefits-text {
+    font-size: 280%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+
+#benefits p {
+    text-align: justify;
+    margin: 20px;
+    
+    
+}
+
+#benefits div {
+    color: #2F4B58;
+    background-color: #ECECDE;
+    width: 23%;
+    height: 300px;
+    float: left;
+    padding-top: 35px;
+    padding-left: 5px;
+    margin: 2px;
+    text-align: center;
+}
+
+
+/* Testimonies - area */
+
+#testimony {
+    height: 350px;
+    width: 100%;
+}
+
+
+#testimony-image-container{
+    width: 315px;
+    height: 315px;
+    padding: 15px;
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    border-radius: 50%;
+    margin: 0 auto;
+    
+}
+
+#testimony-text{
+    text-align: center;
+    margin: 25px, 0;
+    font-size: 280%;
+    padding-top: 70px;
+    
+}
+
+#testimony1-image-area {
+    padding-top: 40px;
+    width: 45%;
+    float: right;
+    margin: 0 10px;
+}
+
+#testimony1-image {
+    background: url(../images/matheus-ferrero-W7b3eDUb_2I-unsplash.jpg) no-repeat center center;
+    background-size: 600px;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#testimony2-image-area{
+    width: 50px;
+    float: left;
+    padding: 20px;
+    
+}
+
+
+.left-testimony-container{
+    width: 43%;
+    height: 250px;
+    float: left;
+    line-height: 20px;
+    padding-left: 100px;
+    padding-top: 75px;
+    margin-bottom: 80px;
+    clear: both;
+    color: #2F4B58;
+    letter-spacing: 1px;
+}
+
+#testimony2-image {
+    background: url(../images/damir-bosnjak-VQ2L7t5qt_8-unsplash.jpg) no-repeat center center;
+    background-size: 600px;
+    height: 100%;
+    border-radius: 50%;
+}
+
+#testimony p{
+    text-align: justify;
+    margin: 20px;
+    
+}
+
+/*  Recipes-area*/
+
+#photo{
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0;
+}
+
+#photo img{
+    width: 100%;
+}
+
+/*  Contact-us-area*/
+
+.form-section {
+    clear: right;
+    background: url(../images/milk-products-dairy\ \(1\).jpg);
+    opacity: 0.9;
+    background-size: cover;
+    background-position: right;
+    height: 700px;
+}
+
+.contact-form {
+    margin-top: 139px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.7);
+    max-width: 300px;
+    position: absolute;
+    left: 10%;
+    padding: 28px;
+    border-radius: 25px;
+
+}
+
+.contact-form > h2 {
+    margin-bottom: 15px;
+    font-size: xx-large;
+    color: white;
+    
+}
+
+.text-input {
+    background: white;
+    color: black;
+    width: 100%;
+    height: 30px;
+    margin: 5px 0 20px 0;
+    border: 1px solid black;
+    border-radius: 3px;
+}
+
+
+
+.button {
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: white;
+    color: black;
+    display: block;
+}
+
+.button:hover {
+    background-color: black;
+    color: white;
+}
+
+
+
+
+/*  Styles-for-tablets*/
+
+@media screen and (max-width: 1200px) {
+    #what-is-kefir{
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #welcome-text {
+        padding: 30px 0;
+        margin-top: 0;
+    }
+
+    #left-about-container {
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #kefir-image-area {
+        clear: both;
+        width: 100%;
+        float: right;
+        padding: 0;
+    }
+
+    #benefits {
+        width: 100%;
+        clear: both;
+        height: 150px;
+
+    }
+}
+
+
+
+/* footer - area */
+
+footer {
+    height: 80px;
+    width: 100%;
+    background-color: #2F4B58;
+    overflow: hidden;
+    margin-top: 10px;
+
+}
+
+.social-networks {
+    text-align: center;
+    margin-right: 20px;
+    
+}
+
+.social-networks li {
+    color: white;
+    display: inline-block;
+    
+    margin: 1px;
+    padding: 2%;    
+}
+
+.social-networks li a {
+    color: white;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: white;
+  }
+
+.social-networks span {
+    color: white;
+}
+
+
+
+
+
+
+
