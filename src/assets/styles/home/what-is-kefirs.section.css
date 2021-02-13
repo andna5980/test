@@ -15,11 +15,13 @@
 .left-about-container > p{
     margin-bottom: 30px;
 }
+
 #kefir-image-area{
     padding-top: 60px;
     width: 50%;
-    display: inline-block;
-
+    
+    float: right;
+    
 }
 
 
