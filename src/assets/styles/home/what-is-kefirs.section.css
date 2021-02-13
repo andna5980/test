@@ -1,0 +1,35 @@
+
+.left-about-container{
+    width: 50%;
+    /* height: 400px; */
+    float: left;
+    line-height: 20px;
+
+    padding-top: 80px;
+    margin-bottom: 50px;
+    /* clear: both; */
+    color: #2F4B58;
+    letter-spacing: 1px;
+}
+
+.left-about-container > p{
+    margin-bottom: 30px;
+}
+#kefir-image-area{
+    padding-top: 60px;
+    width: 50%;
+    display: inline-block;
+
+}
+
+
+.whats-kefir-image{
+    max-height: 360px;
+    max-width: 360px;
+    border-radius: 50%;
+    padding: 15px;
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    float: right;
+}
