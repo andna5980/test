@@ -13,7 +13,11 @@
 #benefits p {
     text-align: justify;
     margin: 20px;
-    
-    
-    
+}
+
+#benefits-text {
+    text-align: center;
+    margin: 25px, 0;
+    font-size: 280%;
+    padding-top: 70px;
 }
