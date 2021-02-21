@@ -21,8 +21,14 @@ This is Kefir Website. This website has been designed to be responsibe and acces
 6. As a returning visitor, I would like to find ways to connect with people who will have the same interest. 
 7. As a frequent user I want to sign up to the newsletter so I can be constantly updated about new recipes or products derivatives. 
 
-
-
+### Design
+    -   #### Colour Scheme
+        -   The main colours used in the site are, a very dark saturated blue, white and a color called sugar cane. We tried to used a reduce  and  simple selection of colours. 
+    -   #### Typography
+        -   The two main fonts used in the whole website are Caveat Brush and Arial, using Helvetica as the fallback font. We choose Caveat Brush for all the titles as it has some similar features to letters from the region where Kefir comes from. Also Arial for the rest of text as is a very clean font easy to read.  
+    -   #### Imagery
+        -   All the imagery we used has te main purpose of create a pleasant experience to the eye. The hero image and the cover text got the simple function of showing the minimal size of the product but the powerful properties  it also got. The animation its designed to catch user attention. The design 
+        has been done to create a clean, simple and minimalistic experience to the user for an easy interaction with the site and its content.
 *   ### Wireframes
 
     -   Home Page Wireframe - [View](https://github.com/andna5980/test/blob/main/src/assets/wireframes/Homepage.pdf)
