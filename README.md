@@ -8,7 +8,7 @@ This is Kefir Website. This website has been designed to be responsibe and acces
 ## User Experience (UX)
 
 -   ### User stories
-    -  ### Different Users 
+    -   ### Different Users 
 
         1. As a first-time visitor, I want to rapidly understand the purpose of the website and how I can benefit from the product and service provided.
 
