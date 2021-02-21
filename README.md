@@ -9,7 +9,6 @@ This is Kefir Website. This website has been designed to be responsibe and acces
 
 -   ### User stories
 
-   
         1. As a first-time visitor, I want to rapidly understand the purpose of the website and how I can benefit from the product and service provided.
 
         2. As a first-time visitor I want to be able to navigate through the page in a ease and clear way.
