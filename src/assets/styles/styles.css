@@ -283,11 +283,16 @@ footer {
     display: inline-block;
     
     margin: 1px;
-    padding: 2%;    
+    padding: 2%;  
+    
+    transition: all 0.35s ease-in-out;
+    -moz-transition: all 0.35s ease-in-out;
+    -webkit-transition: all 0.35s ease-in-out;
+    -o-transition: all 0.35s ease-in-out;
 }
 
 .social-networks li a {
-    color: white;
+    color: black;
 }
 
 .social-networks i {
