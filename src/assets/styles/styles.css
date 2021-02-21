@@ -291,8 +291,8 @@ footer {
     -o-transition: all 0.35s ease-in-out;
 }
 
-.social-networks li a {
-    color: black;
+.social-networks li a i:hover {
+    color: #ECECDE;
 }
 
 .social-networks i {
