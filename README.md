@@ -25,7 +25,7 @@ This is Kefir Website. This website has been designed to be responsibe and acces
 
 *   ### Wireframes
 
-    -   Home Page Wireframe - [View](test/scr/assets/wireframes/homepage.pdf)
+    -   Home Page Wireframe - [View](https://github.com/andna5980/test/blob/main/src/assets/wireframes/Homepage.pdf)
 
     -   Mobile Wireframe - [View](Add mobile Wireframe )
 
