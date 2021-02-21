@@ -6,6 +6,7 @@ This is Kefir Website. This website has been designed to be responsibe and acces
 
 
 ## User Experience (UX)
+
 -   ### User stories
 
    
@@ -22,8 +23,7 @@ This is Kefir Website. This website has been designed to be responsibe and acces
 
 -  ### Design
     -   #### Colour Scheme
-        -   The main colours used in the site are, a very dark saturated blue, white and a color called sugar cane. We tried to used a reduce  and  simple selection of colours.
-        -   #### Typography
+        -   The main colours used in the site are, a very dark saturated blue, white and a color called sugar cane. We tried to used a reduce  and  simple selection of colours.-   #### Typography
         -   The two main fonts used in the whole website are Caveat Brush and Arial, using Helvetica as the fallback font. We choose Caveat Brush for all the titles as it has some similar features to letters from the region where Kefir comes from. Also Arial for the rest of text as is a very clean font easy to read.  
     -   #### Imagery
         -   All the imagery we used has te main purpose of create a pleasant experience to the eye. The hero image and the cover text got the simple function of showing the minimal size of the product but the powerful properties  it also got. The animation its designed to catch user attention. The design 
