@@ -49,7 +49,7 @@ This is Kefir Website. This website has been designed to be responsibe and acces
 1. [Google Fonts:](https://fonts.google.com/)
     - Google fonts were used to import the 'Caveat Brush' font into the style.css file.
 1. [Font Awesome:](https://fontawesome.com/)
-    - Font Awesome was used on all pages throughout the website to add icons mainly the footer.
+    - Font Awesome was used on all pages to add icons mainly the footer.
 1. [Visual Studio Code:](https://code.visualstudio.com/)
     - Visual Studio Code is the main editor used to write huge part of the code, but also to commit and push to Github.    
 1. [Git](https://git-scm.com/)
