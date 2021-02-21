@@ -3,12 +3,12 @@
     color: #2F4B58;
     background-color: #ECECDE;
     width: 23%;
-    height: 300px;
+    height: 250px;
     float: left;
     padding-top: 35px;
     padding-left: 5px;
     margin: 2px;
-    text-align: center;
+    text-align: center;   
 }
 #benefits p {
     text-align: justify;
@@ -21,3 +21,5 @@
     font-size: 280%;
     padding-top: 70px;
 }
+
+
