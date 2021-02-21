@@ -34,3 +34,27 @@ This is Kefir Website. This website has been designed to be responsibe and acces
     -   Mobile Wireframe - [View]( mobile Wireframe WIP)
 
     -   Contact Us Page Wireframe - [View](https://github.com/andna5980/test/blob/main/src/assets/wireframes/Contactus.pdf)
+
+### Languages Used
+
+-   [HTML5](https://en.wikipedia.org/wiki/HTML5)
+-   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+
+### Frameworks, Libraries & Programs Used
+
+1. [Bootstrap 4.4.1:](https://getbootstrap.com/docs/4.4/getting-started/introduction/)
+    - Bootstrap was used to assist with the responsiveness and styling of the website.
+1. [Hover.css:](https://ianlunn.github.io/Hover/)
+    - Hover.css was used on the Social Media icons in the footer to add the float transition while being hovered over.
+1. [Google Fonts:](https://fonts.google.com/)
+    - Google fonts were used to import the 'Caveat Brush' font into the style.css file.
+1. [Font Awesome:](https://fontawesome.com/)
+    - Font Awesome was used on all pages throughout the website to add icons mainly the footer.
+1. [Visual Studio Code:](https://code.visualstudio.com/)
+    - Visual Studio Code is the main editor used to write huge part of the code, but also to commit and push to Github.    
+1. [Git](https://git-scm.com/)
+    - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
+1. [GitHub:](https://github.com/)
+    - GitHub is used to store the projects code after being pushed from Git.
+1. [Balsamiq:](https://balsamiq.com/)
+    - Balsamiq was used to create the wireframes as part of the design process.
