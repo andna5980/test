@@ -13,10 +13,10 @@ body {
     font-family: Arial, Helvetica, sans-serif; 
     color: #2F4B58;    
 }
-/*
+
 section {
-    clear:both;
-}*/
+    clear: both;
+}
 
 .app-wrapper {
     
@@ -30,11 +30,15 @@ h1, h2 {
     color: #2F4B58;
 }
 
+
+/*-----------------------Header ----------*/
+
 #logo{
     float: left;
     font-size: 280%; 
     padding-left: 10px;
     letter-spacing: 3px;
+    margin-left: 25px;
 }
 
 #nav{
@@ -45,6 +49,7 @@ h1, h2 {
     font-size: 120%;
     list-style-type: none;
     letter-spacing: 2px;
+    margin-right: 25px;
 }
 
 #menu li{
@@ -69,6 +74,8 @@ h1, h2 {
 .active{
     border-bottom: 1px solid #2F4B58;
 }
+
+/*-----------------------Hero-image ----------*/
 
 #hero-outer{
     height: 400px;
@@ -121,8 +128,10 @@ h1, h2 {
     position: absolute; 
 }
 
-/* Whats-kefir-area*/
 
+/*-----------------------Whats-kefir-area----------*/
+
+/*
 #about-kefir{
     padding-top: 10px;
     padding-left: 30px;
@@ -133,11 +142,10 @@ h1, h2 {
 hr{
     border-color: #2F4B58;
     width: 100%;
-}
+}*/
 
 
-
-/*  Recipes-area*/
+/*-----------------------Recipes-area----------*/
 
 #photo{
     clear: both;
@@ -150,7 +158,8 @@ hr{
     width: 100%;
 }
 
-/*  Contact-us-area*/
+
+/*-----------------------Contact-us-area----------*/
 
 .form-section {
     clear: right;
